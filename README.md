@@ -1,2 +1,5 @@
-# desafio_data_science
-Priemeiro desafio do bootcamp de data science, usando dados reais obtidos pelo sus para estabelecer uma visualização da produção hospitalar no estados brasileiros
+# Applied data science bootcamp
+
+Repository to keep my portfolio of data science created on the bootcamp
+
+- First bootcamp challenge - Using real data taken from SUS ( healthy system in Brazil) to create a visualization of hospital production on all brazilian states. 
